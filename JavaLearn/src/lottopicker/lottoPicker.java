@@ -58,7 +58,6 @@ public class lottoPicker {
         for (int x = 1; x < numbArray.length; ++x) {
             if (Objects.equals(numbArray[x], numbIn)) {
                 returnVal = true;
-
                 break;
             }
         }
