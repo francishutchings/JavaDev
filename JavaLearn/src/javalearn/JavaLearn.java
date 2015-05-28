@@ -50,7 +50,7 @@ public class JavaLearn {
         return intArray;
     }
     
-    private static boolean numbExists(Integer[] numbArray, Integer numbIn){
+    public static boolean numbExists(Integer[] numbArray, Integer numbIn){
         boolean returnVal = false;
         for(int x=1; x<numbArray.length; ++x){
             if(Objects.equals(numbArray[x], numbIn)){
