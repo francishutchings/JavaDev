@@ -66,6 +66,3 @@ public class lottoPicker {
         return returnVal;
     }
 }
-
-
-//~ Formatted by Jindent --- http://www.jindent.com
