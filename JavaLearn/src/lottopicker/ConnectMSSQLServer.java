@@ -21,7 +21,7 @@ public class ConnectMSSQLServer {
     private final String portNumber = "1433";
     private final String databaseName = "dev";
     private final String userName = "sa";
-    private final String password = "SarudnoH1967";
+    private final String password = "DBConnect";
     private final String selectMethod = "cursor";
 
     private String getConnectionUrl() {
